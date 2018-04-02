@@ -1,0 +1,2 @@
+APScheduler==3.5.0
+enum==0.4.6
